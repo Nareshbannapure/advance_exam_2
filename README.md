@@ -14,21 +14,30 @@ A simple Shopping Cart app built with Flutter using Firebase Firestore and SQLit
 
 <p>  
 
-  <img src = "https://github.com/user-attachments/assets/28af8f4b-42ec-46e3-9aae-6bd4f559658f" width=22% height=35% >
+  <img src = "https://github.com/user-attachments/assets/b56205bb-e664-42d5-aa86-0ddc55713792" width=22% height=35% >
 
-  <img src = "https://github.com/user-attachments/assets/52c3f888-e4ac-491f-9c89-380982cbb476" width=22% height=35% >
 
-  <img src = "https://github.com/user-attachments/assets/348f92e0-c9f1-488c-bb96-6d82a26306b7" width=22% height=35% >
+  <img src = "https://github.com/user-attachments/assets/eaf424fb-28af-4339-8c0c-a49fae50c00b" width=22% height=35% >
 
-  <img src = "https://github.com/user-attachments/assets/6d59727a-9731-4098-9471-1c38095c1f35" width=22% height=35% >
 
-  <img src = "https://github.com/user-attachments/assets/33260af8-4e0e-4aa6-8104-56fb127052f3" width=22% height=35% > 
+  <img src = "https://github.com/user-attachments/assets/ac6ec5ce-ed9e-4935-aac6-3ff43f8b9c6c" width=22% height=35% >
 
-  <img src = "https://github.com/user-attachments/assets/28af8f4b-42ec-46e3-9aae-6bd4f559658f" width=22% height=35% >
+
+  <img src = "https://github.com/user-attachments/assets/c4c20efd-8ff3-4a5c-823d-c1e65f6be9b9" width=22% height=35% >
+
+
+  <img src = "https://github.com/user-attachments/assets/3437f236-6353-4117-acb4-abe1f61bd8a3" width=22% height=35% > 
+
+
+  <img src = "https://github.com/user-attachments/assets/5f9aa9e3-487a-4ba7-8ae1-e7d989ce3967" width=22% height=35% >
+
 
 </p>
 
- 
+
+https://github.com/user-attachments/assets/54b84838-d1d3-47de-bddb-f2f9b4a2f6a3
+
+
 # Used 
 - Add Product: Click the + button, enter product details, and save.
 - Update Product: Long press on a product to edit its details.
